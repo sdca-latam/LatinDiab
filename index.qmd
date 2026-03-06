@@ -1,0 +1,22 @@
+---
+title: LatinDiab
+image: internationalization_map.png
+about:
+  template: jolla
+  image-width: 30em
+  image-shape: rectangle
+---
+
+The LatinDiab project ambition is to strengthening health systems research capacity and decision making in diabetes care by contributing with a well documented set of open-source tools for the setup of modern, scalable, and efficient diabetes registers in Latin America, ensuring high quality, reproducible, and transparent research leading to improve quality of diabetes care, increase the scientific impact of these resources, and guide decision making in diabetes care and planning. Ultimately, LatinDiab will provide a proof of concept regarding how continuously updated and automated health data could be linked in order to establish a disease register. Thus, the scope of the open-source software could be transferable to other non-communicable chronic diseases and settings.
+
+The overall aim of the LatinDiab project is to co-design, implement, and evaluate an open-source software that will be integrated into existing health information systems for the set-up of diabetes registers in Mexico, Argentina, and Colombia. Specifically, this project aims to
+
+-   Map the available data infrastructure from a data life cycle perspective: planning, generation, collection, processing, storing, management, access, content, permissions, maintenance; overall data flows and potential linkage, the relevant staff working with data at any stage of the data life cycle.
+
+-   Engage key staff involved at any point of the data life cycle to co-design context specific implementation strategies of the open-source software.
+
+-   Deploy, adapt, and integrate into current health information systems an open-source software to build a diabetes register.
+
+-   Build research capacity in open science practices and reproducible workflows through online and onsite training sessions.
+
+-   Co-develop the road map for scaling-up the implementation of the open-source software and the implementation of a federated meta-analysis.

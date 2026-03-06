@@ -1,3 +1,21 @@
 ---
 title: "Work package 3"
 ---
+
+Argentina has a population of around 45 million people living in 23 provinces and the autonomous city of Buenos Aires (Figure 2). The province of La Pampa has 361,859 inhabitants living in an area of 143,440 km² (2022 Census). The public health system in the province of La Pampa consists of 126 healthcare facilities located across 80 localities, with about 11,000 authorized users, including health professionals and administrative staff. This health care network is administratively organized into five health zones.
+
+The Health Information System (SIS, from its acronym in Spanish) provides an online appointment system and a central appointment desk for referral to secondary and tertiary levels of care. This information system is crucial for data access and evaluating the impact of health policies. However, the full capacity of the SIS for the diabetes programme management and decision making has not been exploited yet. Local challenges include the lack of the technical skills to perform the data linkage and analyzing the data.
+
+According to the 4th National Survey of Risk Factors (INDEC, 2019), the prevalence of diabetes in La Pampa province was estimated at 12.7% in 2019. Approximately 17,000 patients are receiving diabetes care within the public health system, with 4,300 of these being insulin-treated (Provincial Healthcare IT System). “La Pampa Diabetes Programme” was established in the same year under the management of the Evita General Community Hospital with the objectives to improve access to care, ensure timely referrals and appropriate treatment, and implement a comprehensive approach to reduce diabetes-related complications and enhance the quality of life for patients.
+
+WP3 will be coordinated with health research entities in La Pampa province, including the Research Area of the Ministry of Health, La Pampa Provincial Council for Health Research, and the National University of La Pampa. WP3 has the following objectives:
+
+-   To map and identify all potential health data sources within the health information systems that could be potentially used to identify people living with diabetes in La Pampa province.
+
+-   To establish a register-based definition of diabetes using the available proxy indicators in the health data sources within the health information systems of La Pampa province.
+
+-   To integrate a diabetes provincial register through linkage of different health data sources.
+
+-   To analyze the diabetes provincial register to provide insights about the epidemiology of diabetes in La Pampa province.
+
+-   To describe diabetes care using the provincial diabetes register in La Pampa province.
