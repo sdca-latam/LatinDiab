@@ -1,0 +1,5 @@
+---
+title: "About us"
+---
+
+Index.qmd es la página principal. en el yml file tengo que modificarlo si quisiera agregar íconos o los nombres de las pestañas, esos nombres tienen que hacer match con generar qmd files con los mimos nombres

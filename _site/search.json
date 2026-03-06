@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LatinDiab",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n![]()"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About us",
+    "section": "",
+    "text": "Index.qmd es la página principal. en el yml file tengo que modificarlo si quisiera agregar íconos o los nombres de las pestañas, esos nombres tienen que hacer match con generar qmd files con los mimos nombres"
+  },
+  {
+    "objectID": "quienessomos.html",
+    "href": "quienessomos.html",
+    "title": "Acerca de",
+    "section": "",
+    "text": "Index.qmd es la página principal. en el yml file tengo que modificarlo si quisiera agregar íconos o los nombres de las pestañas, esos nombres tienen que hacer match con generar qmd files con los mimos nombres"
+  }
+]
