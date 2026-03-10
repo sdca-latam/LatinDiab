@@ -1,5 +1,54 @@
 ---
 title: "About us"
+css: styles.css
 ---
 
-Index.qmd es la página principal. en el yml file tengo que modificarlo si quisiera agregar íconos o los nombres de las pestañas, esos nombres tienen que hacer match con generar qmd files con los mimos nombres
+The LatinDiab project is a collaboration between diabetologists, public health specialists, and epidemiologists from Argentina, Colombia, Mexico, Peru and Denmark.
+
+::::::::: column-body-outset
+![Argentina](images/Flag_of_Argentina.png){.profile-picture 
+fig-alt="Bandera de Argentina."}
+
+::: {layout-ncol="2"}
+![Paula V. Gómez](images/Foto%20Paula.png){.profile-picture fig-alt="Paula V. Gómez."}
+
+Paula V. Gómez is physician with a Master's degree in diabetes and specializations in nutrition and family medicine. She currently works in the research department of the Ministry of Health of La Pampa and coordinates the Integrated Diabetes Practice Unit (UPID) at the Evita Hospital in the province of La Pampa, Argentina.
+:::
+
+![Colombia](images/Flag_of_Colombia.png){.profile-picture fig-alt="Bandera de Colombia."}
+
+::: {layout-ncol="2"}
+![Paula Díaz](images/paula_diaz.png){.profile-picture fig-alt="Paula Díaz profile picture."}
+
+Paula Díaz is an Associate Professor at the National School of Public Health at the University of Antioquia, Colombia, and the current president of the Americas Network for Chronic Disease Surveillance.
+:::
+
+![México](images/Flag_of_Mexico.png){.profile-picture fig-alt="Bandera de México."} 
+
+::: {layout-ncol="2"}
+<!--![Karla Moreno Tamayo](){.profile-picture fig-alt="Karla Moreno Tamayo."}-->
+
+Karla Moreno
+:::
+
+![Perú](images/Flag_of_Peru.png){.profile-picture fig-alt="Bandera de Perú."}
+
+::: {layout-ncol="2"}
+<!--![María Lazo](){.profile-picture fig-alt="María Lazo."}-->
+
+María Lazo
+:::
+
+![Denmark](images/Flag_of_Denmark.png){.profile-picture fig-alt="Bandera de Dinamarca."}
+
+::: {layout-ncol="2"}
+![Omar Silverman](images/omar_silverman.png){.profile-picture fig-alt="Omar Silverman profile picture."}
+
+Omar Silverman is researcher and Assistant Professor at Aarhus University and the Steno Diabetes Center Aarhus, Denmark.
+
+Daniel Witte is Professor of Diabetes Epidemiology at Aarhus University and at the Steno Diabetes Center Aarhus, Denmark.
+
+![Daniel Witte](images/daniel_witte.png){.profile-picture fig-alt="Daniel Witte profile picture."}
+:::
+
+:::::::::

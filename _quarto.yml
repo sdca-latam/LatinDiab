@@ -6,16 +6,16 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Overview
       - about.qmd
     right: 
       - text: Work packages
         menu: 
+        - overview.qmd
         - wp1.qmd
         - wp2.qmd
         - wp3.qmd
         - wp4.qmd
-        - wp5.qmd
 format:
   html:
     theme: cosmo

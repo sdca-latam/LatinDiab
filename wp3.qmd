@@ -1,21 +1,11 @@
 ---
-title: "Work package 3"
+title: "Work package 3. Mexico"
 ---
 
-Argentina has a population of around 45 million people living in 23 provinces and the autonomous city of Buenos Aires (Figure 2). The province of La Pampa has 361,859 inhabitants living in an area of 143,440 km² (2022 Census). The public health system in the province of La Pampa consists of 126 healthcare facilities located across 80 localities, with about 11,000 authorized users, including health professionals and administrative staff. This health care network is administratively organized into five health zones.
+Established in 1943, the Mexican Institute for Social Security (IMSS by its acronym in Spanish) is Mexico’s largest public health institution, responsible for delivering medical care, social security benefits, and pension services to formally employed individuals, retirees, and their dependents such as spouses, children, and in some cases, parents and other dependents, who are legally recognized under IMSS regulations. By the end of 2024, IMSS served a total of 77,430,917 beneficiaries which represent 58.5% of the Mexican population (IMSS, 2025). 
 
-The Health Information System (SIS, from its acronym in Spanish) provides an online appointment system and a central appointment desk for referral to secondary and tertiary levels of care. This information system is crucial for data access and evaluating the impact of health policies. However, the full capacity of the SIS for the diabetes programme management and decision making has not been exploited yet. Local challenges include the lack of the technical skills to perform the data linkage and analyzing the data.
+A series of databases from IMSS’ Health Information System comprises a comprehensive set of components and modules that document healthcare delivery processes. The system is designed to generate and disseminate statistical information that supports institutional decision-making. Data includes information on morbidity, mortality, births, population demographics, health services coverage, and the availability of human, infrastructural, material, and financial resources. We will use these datasets to implement the open-source software tool for the set-up of the diabetes register.
 
-According to the 4th National Survey of Risk Factors (INDEC, 2019), the prevalence of diabetes in La Pampa province was estimated at 12.7% in 2019. Approximately 17,000 patients are receiving diabetes care within the public health system, with 4,300 of these being insulin-treated (Provincial Healthcare IT System). “La Pampa Diabetes Programme” was established in the same year under the management of the Evita General Community Hospital with the objectives to improve access to care, ensure timely referrals and appropriate treatment, and implement a comprehensive approach to reduce diabetes-related complications and enhance the quality of life for patients.
+The absence of comprehensive registries for T1D impedes outcome monitoring, intervention evaluation, and equitable access to specialized care. Addressing these gaps through targeted research and implementation efforts is essential to reduce long-term complications and improve health outcomes among IMSS patients. Thus, a T1D registry would be a strategic asset for IMSS, enabling real-time tracking of clinical outcomes, identification of high-risk individuals, and monitoring of treatment adherence. By integrating sociodemographic and clinical data, IMSS could design targeted interventions, optimize resource allocation, and assess program effectiveness. Furthermore, the registry could inform policy decisions related to disability benefits, preventive care, and endocrinology service planning, shifting the focus from reactive crisis management to proactive, long-term health strategies and cost containment.
 
-WP3 will be coordinated with health research entities in La Pampa province, including the Research Area of the Ministry of Health, La Pampa Provincial Council for Health Research, and the National University of La Pampa. WP3 has the following objectives:
-
--   To map and identify all potential health data sources within the health information systems that could be potentially used to identify people living with diabetes in La Pampa province.
-
--   To establish a register-based definition of diabetes using the available proxy indicators in the health data sources within the health information systems of La Pampa province.
-
--   To integrate a diabetes provincial register through linkage of different health data sources.
-
--   To analyze the diabetes provincial register to provide insights about the epidemiology of diabetes in La Pampa province.
-
--   To describe diabetes care using the provincial diabetes register in La Pampa province.
+<!--ask Karla if she could find a map of Mexico with IMSS clinics-->
