@@ -10,7 +10,7 @@ The LatinDiab project is a collaboration between diabetologists, public health s
 fig-alt="Bandera de Argentina."}
 
 ::: {layout-ncol="2"}
-![Paula V. Gómez](images/Foto%20Paula.png){.profile-picture fig-alt="Paula V. Gómez."}
+![Paula V. Gómez](images/paula.png){.profile-picture fig-alt="Paula V. Gómez."}
 
 Paula V. Gómez is physician with a Master's degree in diabetes and specializations in nutrition and family medicine. She currently works in the research department of the Ministry of Health of La Pampa and coordinates the Integrated Diabetes Practice Unit (UPID) at the Evita Hospital in the province of La Pampa, Argentina.
 :::
