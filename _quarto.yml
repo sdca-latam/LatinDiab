@@ -9,7 +9,7 @@ website:
         text: Overview
       - about.qmd
     right: 
-      - text: Work packages
+      - text: Road map
         menu: 
         - overview.qmd
         - wp1.qmd
