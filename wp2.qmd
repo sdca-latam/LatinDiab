@@ -1,11 +1,9 @@
 ---
-title: "Work package 2. Argentina."
+title: "Argentina."
 ---
 
-Argentina has a population of around 45 million people living in 23 provinces and the autonomous city of Buenos Aires. The province of La Pampa has 361,859 inhabitants living in an area of 143,440 km² (2022 Census). The public health system in the province of La Pampa consists of 126 healthcare facilities located across 80 localities, with about 11,000 authorized users, including health professionals and administrative staff. This health care network is administratively organized into five health zones.
+Argentina has a population of around 45 million people living in 23 provinces and the autonomous city of Buenos Aires. The province of La Pampa has 361,859 inhabitants living in an area of 143,440 km² (REF: 2022 Census). The public health system in the province of La Pampa consists of 126 healthcare facilities located across 80 localities, with about 11,000 authorized users, including health professionals and administrative staff. This health care network is administratively organized into five health zones.
 
 ![Argentina map, its provinces, and health districts in La Pampa province](images/Argentina-map.png)
 
-The Health Information System (SIS, from its acronym in Spanish) provides an online appointment system and a central appointment desk for referral to secondary and tertiary levels of care. This information system is crucial for data access and evaluating the impact of health policies. However, the full capacity of the SIS for the diabetes programme management and decision making has not been exploited yet. Local challenges include the lack of the technical skills to perform the data linkage and analyzing the data.
-
-According to the 4th National Survey of Risk Factors (INDEC, 2019), the prevalence of diabetes in La Pampa province was estimated at 12.7% in 2019. Approximately 17,000 patients are receiving diabetes care within the public health system, with 4,300 of these being insulin-treated (Provincial Healthcare IT System). “La Pampa Diabetes Programme” was established in the same year under the management of the Evita General Community Hospital with the objectives to improve access to care, ensure timely referrals and appropriate treatment, and implement a comprehensive approach to reduce diabetes-related complications and enhance the quality of life for patients.
+The Health Information System (SIS, from its acronym in Spanish) provides an online appointment system and a central appointment desk for referral to secondary and tertiary levels of care. This information system is crucial for data access and evaluating the impact of health policies. However, the full capacity of the SIS for the diabetes programme management and decision making has not been exploited yet.
