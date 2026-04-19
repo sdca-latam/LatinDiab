@@ -5,9 +5,8 @@ css: styles.css
 
 The LatinDiab project is a collaboration between diabetologists, public health specialists, and epidemiologists from Argentina, Colombia, Mexico, Peru and Denmark.
 
-::::::::: column-body-outset
-![Argentina](images/Flag_of_Argentina.png){.profile-picture 
-fig-alt="Bandera de Argentina."}
+:::::::: column-body-outset
+![Argentina](images/Flag_of_Argentina.png){.profile-picture fig-alt="Bandera de Argentina."}
 
 ::: {layout-ncol="2"}
 ![Paula V. Gómez](images/paula.png){.profile-picture fig-alt="Paula V. Gómez."}
@@ -23,7 +22,7 @@ Paula V. Gómez is physician with a Master's degree in diabetes and specializati
 Paula Díaz is an Associate Professor at the National School of Public Health at the University of Antioquia, Colombia, and the current president of the Americas Network for Chronic Disease Surveillance.
 :::
 
-![México](images/Flag_of_Mexico.png){.profile-picture fig-alt="Bandera de México."} 
+![México](images/Flag_of_Mexico.png){.profile-picture fig-alt="Bandera de México."}
 
 ::: {layout-ncol="2"}
 <!--![Karla Moreno Tamayo](){.profile-picture fig-alt="Karla Moreno Tamayo."}-->
@@ -36,7 +35,8 @@ Karla Moreno
 ::: {layout-ncol="2"}
 <!--![María Lazo](){.profile-picture fig-alt="María Lazo."}-->
 
-María Lazo
+María Lazo Porras is a research associate at CRONICAS, the Center of Excellence in Chronic Diseases, Universidad Peruana Cayetano Heredia and Senior Researcher at the Universidad Científica del Sur. 
+
 :::
 
 ![Denmark](images/Flag_of_Denmark.png){.profile-picture fig-alt="Bandera de Dinamarca."}
@@ -50,5 +50,4 @@ Daniel Witte is Professor of Diabetes Epidemiology at Aarhus University and at t
 
 ![Daniel Witte](images/daniel_witte.png){.profile-picture fig-alt="Daniel Witte profile picture."}
 :::
-
-:::::::::
+::::::::
