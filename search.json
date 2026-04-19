@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "wp2.html",
-    "href": "wp2.html",
-    "title": "Argentina",
+    "objectID": "wp4.html",
+    "href": "wp4.html",
+    "title": "Colombia",
     "section": "",
-    "text": "Argentina has a population of around 45 million people living in 23 provinces and the autonomous city of Buenos Aires. The province of La Pampa has 361,859 inhabitants living in an area of 143,440 km² (REF: 2022 Census). The public health system in the province of La Pampa consists of 126 healthcare facilities located across 80 localities, with about 11,000 authorized users, including health professionals and administrative staff. This health care network is administratively organized into five health zones.\n\n\n\nArgentina map, its provinces, and health districts in La Pampa province\n\n\nThe Health Information System (SIS, from its acronym in Spanish) provides an online appointment system and a central appointment desk for referral to secondary and tertiary levels of care. This information system is crucial for data access and evaluating the impact of health policies. However, the full capacity of the SIS for the diabetes programme management and decision making has not been exploited yet."
+    "text": "The current Colombian health system remains fragmented, though it is in the process of transitioning towards a universal and equitable coverage model for the entire territory. In this context, we propose to implement a monitoring model based on health records and other health-related data sources from the city of Medellín, a city with approximately 2.63 million residents—and the broader Aburrá Valley, which is home to around 4.25 million inhabitants.\n\n\n\nMap of Medellin, Colombia\n\n\nThe capture–recapture method to estimate both the incidence and prevalence of type 1 diabetes (T1D) in Medellín and the Aburrá Valley is currently being applied. The approach requires compiling a census of all T1D cases recorded in each data-generating center (e.g., hospitals, outpatient clinics, laboratories, pharmacies), even when the data sources are incomplete. Since each center provides only a fragment of the total cases, the capture–recapture method allows estimation of the total number of cases by combining these partial records. Using statistical models, it becomes possible to generate more accurate estimates of the epidemiological indicators of interest."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About us",
+    "section": "",
+    "text": "The LatinDiab project is a collaboration between diabetologists, public health specialists, and epidemiologists from Argentina, Colombia, Mexico, Peru and Denmark.\n\n\n\n\nArgentina\n\n\n\n\n\n\n\n\nPaula V. Gómez\n\n\n\n\nPaula V. Gómez is physician with a Master’s degree in diabetes and specializations in nutrition and family medicine. She currently works in the research department of the Ministry of Health of La Pampa and coordinates the Integrated Diabetes Practice Unit (UPID) at the Evita Hospital in the province of La Pampa, Argentina.\n\n\n\n\n\n\nColombia\n\n\n\n\n\n\n\n\nPaula Díaz\n\n\n\n\nPaula Díaz is an Associate Professor at the National School of Public Health at the University of Antioquia, Colombia, and the current president of the Americas Network for Chronic Disease Surveillance.\n\n\n\n\n\n\nMéxico\n\n\n\n\n\n\n\n\nKarla Moreno\n\n\n\n\n\n\nPerú\n\n\n\n\n\n\n\n\nMaría Lazo\n\n\n\n\n\n\nDenmark\n\n\n\n\n\n\n\n\nOmar Silverman\n\n\n\n\nOmar Silverman is researcher and Assistant Professor at Aarhus University and the Steno Diabetes Center Aarhus, Denmark.\n\n\n\n\nDaniel Witte is Professor of Diabetes Epidemiology at Aarhus University and at the Steno Diabetes Center Aarhus, Denmark.\n\n\n\n\n\nDaniel Witte"
   },
   {
     "objectID": "wp1.html",
@@ -14,11 +21,32 @@
     "text": "The overall project management will be done from Denmark to coordinate the collaboration between countries and to ensure the transfer of technical skills for the implementation of the open-source software, and the implementation of a high-quality technical documentation of the project following open science and reproducibility principles.\nThe LatinDiab project will implement the Seedcase project, an open-source data infrastructure tool that is compliant with the FAIR principles (Findable, Accessible, Interoperable, Reusable). It is designed to support modern, scalable, and efficient approaches to health information systems. By using state-of-the-art software engineering practices, Seedcase project ensures that health data are FAIR, meeting a robust stewardship, open and reproducible science. This will enable the integration of high quality, standardized registry data from Argentina, Mexico and Colombia into a shared framework.\n\n\n\nSeed case project overview\n\n\nUsage of this software tool depends on the quality of its documentation and training material, therefore there will be a local tech lead that will be responsible to liaise between Denmark and local data and research practices. Two key elements are the research operations that will simplify, streamline, and automate the collaborations and coordination of activities and products; and the technical and research capacity building that will provide the learning environment of the required technical skills in the use of modern data engineering tools through formal and informal training sessions, creating and running short workshops, and tutorials that will teach the LatinDiab project members how they can use this software tools, and local data engineers on how to implement it.\nRead more about the Seedcase project here"
   },
   {
-    "objectID": "wp4.html",
-    "href": "wp4.html",
-    "title": "Colombia",
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Project aims and stages",
     "section": "",
-    "text": "The current Colombian health system remains fragmented, though it is in the process of transitioning towards a universal and equitable coverage model for the entire territory. In this context, we propose to implement a monitoring model based on health records and other health-related data sources from the city of Medellín, a city with approximately 2.63 million residents—and the broader Aburrá Valley, which is home to around 4.25 million inhabitants.\n\n\n\nMap of Medellin, Colombia\n\n\nThe capture–recapture method to estimate both the incidence and prevalence of type 1 diabetes (T1D) in Medellín and the Aburrá Valley is currently being applied. The approach requires compiling a census of all T1D cases recorded in each data-generating center (e.g., hospitals, outpatient clinics, laboratories, pharmacies), even when the data sources are incomplete. Since each center provides only a fragment of the total cases, the capture–recapture method allows estimation of the total number of cases by combining these partial records. Using statistical models, it becomes possible to generate more accurate estimates of the epidemiological indicators of interest."
+    "text": "The LatinDiab project aims to co-design, implement, and evaluate open-source software tools that will be integrated into existing health data information systems for the setup of diabetes registers in Mexico, Argentina, and Colombia.\nThe LatinDiab project is conceptualized as a multi-country, mixed-methods implementation research project over the course of four years. The project is planned in three stages across Argentina, Mexico, and Colombia."
+  },
+  {
+    "objectID": "overview.html#stage-1-data-life-cycle-mapping",
+    "href": "overview.html#stage-1-data-life-cycle-mapping",
+    "title": "Project aims and stages",
+    "section": "Stage 1: Data life cycle mapping",
+    "text": "Stage 1: Data life cycle mapping\nThe purpose of this stage is to map the available data sources, and identify how the generated data flows in the local health data systems. At this stage it is important to identify potential barriers and enablers for the implementation of the diabetes registers, and key players involved at each step of the data life cycle.\nSpecifically, it aims to:\n\nMap the available data infrastructure, the data flows and the potential data linkage using the data life cycle framework.\nIdentify the main barriers and facilitators for a successful implementation of the open source software tool, as well as the available undercurrent components that lay the foundation and cut across multiple data lifecycle stages: security, legal basis, architecture, orchestation, etc.\nIdentify and engage key staff involved at the different stages of the data life cycle to co-design context specific implementation strategies of the open-source software tool.\nAssess the frequency of updating the data"
+  },
+  {
+    "objectID": "overview.html#stage-2-feasibility-study-and-diabetes-algorithm-validation",
+    "href": "overview.html#stage-2-feasibility-study-and-diabetes-algorithm-validation",
+    "title": "Project aims and stages",
+    "section": "Stage 2: Feasibility study and diabetes algorithm validation",
+    "text": "Stage 2: Feasibility study and diabetes algorithm validation\nOnce we map the local health data life cycle, we aim to test the deployment and integration of the open-source software tool into the current local health data information systems at a relative small scale (i.e. at the province level in Argentina, and Colombia, and at the state level in Mexico).\nResearch capacity building in open science practices and reproducible workflows are fundamental components for the successful implementation of the project, and standardize local teams to integrate high quality documentation and collaborative practices.\nOnce the diabetes register is build, the LatinDiab team will estimate the disease burden: prevalence, and incidence of type 1 and type 2 diabetes; calculate the mortality rate of type 1 and type 2 diabetes. We will be able to estimate the burden of type 1 and type 2 diabetes complications.\nCo-design of the road for the implementation of a federated meta-analysis.\n\nTo validate the diabetes register by conducting a pilot study before scaling up the implementation of the software.\n\nImplementation science research outcomes - adoption of the register: number of data request, number of register protocols, published pre-prints, papers, stakeholder inquiry for register output (e.g.basic demographic information of early onset t2d, number of deaths over the last 5 years) - usefulness: - fidelity: quality of documentation practices"
+  },
+  {
+    "objectID": "overview.html#stage-3-scale-up-of-the-diabetes-register",
+    "href": "overview.html#stage-3-scale-up-of-the-diabetes-register",
+    "title": "Project aims and stages",
+    "section": "Stage 3: Scale up of the diabetes register",
+    "text": "Stage 3: Scale up of the diabetes register\nOnce we have tested the feasibility of the implementation and evaluated the algorithm for identification of people living with diabetes, we will co-develop the road map for scaling-up the implementation of the open-source software tool"
   },
   {
     "objectID": "wp3.html",
@@ -28,45 +56,17 @@
     "text": "Established in 1943, the Mexican Institute for Social Security (IMSS by its acronym in Spanish) is Mexico’s largest public health institution, responsible for delivering medical care, social security benefits, and pension services to formally employed individuals, retirees, and their dependents such as spouses, children, and in some cases, parents and other dependents, who are legally recognized under IMSS regulations. By the end of 2024, IMSS served a total of 77,430,917 beneficiaries which represent 58.5% of the Mexican population (IMSS, 2025). \nA series of databases from IMSS’ Health Information System comprises a comprehensive set of components and modules that document healthcare delivery processes. The system is designed to generate and disseminate statistical information that supports institutional decision-making. Data includes information on morbidity, mortality, births, population demographics, health services coverage, and the availability of human, infrastructural, material, and financial resources. We will use these data sets to implement the open-source software tool for the set-up of the diabetes register at IMSS."
   },
   {
+    "objectID": "wp2.html",
+    "href": "wp2.html",
+    "title": "Argentina",
+    "section": "",
+    "text": "Argentina has a population of around 45 million people living in 23 provinces and the autonomous city of Buenos Aires. The province of La Pampa has 361,859 inhabitants living in an area of 143,440 km² (REF: 2022 Census). The public health system in the province of La Pampa consists of 126 healthcare facilities located across 80 localities, with about 11,000 authorized users, including health professionals and administrative staff. This health care network is administratively organized into five health zones.\n\n\n\nArgentina map, its provinces, and health districts in La Pampa province\n\n\nThe Health Information System (SIS, from its acronym in Spanish) provides an online appointment system and a central appointment desk for referral to secondary and tertiary levels of care. This information system is crucial for data access and evaluating the impact of health policies. However, the full capacity of the SIS for the diabetes programme management and decision making has not been exploited yet."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Building diabetes registers in Latin America",
     "section": "",
-    "text": "LatinDiab is a collaborative project that aims to setup modern, scalable, and efficient diabetes registers in Latin America by implementing a well documented set of open-source tools that ensure high quality, reproducible, and transparent research, leading to increase the scientific impact of these resources, improve diabetes care planning and policy making.\n\nThe LatinDiab project aims to co-design, implement, and evaluate an open-source software that will be integrated into existing health information systems for the setup of diabetes registers in Mexico, Argentina, and Colombia.\nSpecifically, it aims to:\n\nMap the available data infrastructure from a data life cycle perspective, map the overall data flows and potential linkage.\nIdentify the main barriers and facilitators for a successful implementation of the open source software.\nIdentify and engage key staff involved at any point of the data life cycle to co-design context specific implementation strategies of the open-source software.\nDeploy, adapt, and integrate into current health information systems an open-source software to build a diabetes register.\nBuild research capacity in open science practices and reproducible workflows through online and onsite training sessions.\nCo-develop the road map for scaling-up the implementation of the open-source software and the potential implementation of a federated meta-analysis.\n\nUltimately, the LatinDiab project will provide a proof of concept regarding how continuously updated and automated health data could be linked in order to establish a disease register. Thus, the scope of the open-source software could be transferable to other chronic cardio-metabolic diseases."
-  },
-  {
-    "objectID": "overview.html",
-    "href": "overview.html",
-    "title": "LatinDiab project stages",
-    "section": "",
-    "text": "The LatinDiab project is conceptualized as a multi-country, mixed-methods implementation research project over the course of four years. The project will be implemented in three stages across Argentina, Mexico, and Colombia."
-  },
-  {
-    "objectID": "overview.html#stage-1-data-life-cycle-mapping",
-    "href": "overview.html#stage-1-data-life-cycle-mapping",
-    "title": "LatinDiab project stages",
-    "section": "Stage 1: Data life cycle mapping",
-    "text": "Stage 1: Data life cycle mapping\nThe purpose of this stage is to map the available data sources, and identify how the generated data flows in the local health data systems. At this stage it is important to identify potential barriers and enablers for the implementation of the diabetes registers, and key players involved at each step of the data life cycle."
-  },
-  {
-    "objectID": "overview.html#stage-2-feasibility-study-and-diabetes-algorithm-validation",
-    "href": "overview.html#stage-2-feasibility-study-and-diabetes-algorithm-validation",
-    "title": "LatinDiab project stages",
-    "section": "Stage 2: Feasibility study and diabetes algorithm validation",
-    "text": "Stage 2: Feasibility study and diabetes algorithm validation\nOnce we map the local health data life cycle, we will test the deployment of the open-source software in a relative small scale, and the integration in the current local health information systems. We will validate the diabetes register by conducting a pilot study before scaling up the implementation of the software."
-  },
-  {
-    "objectID": "overview.html#stage-3-scale-up-of-the-diabetes-register",
-    "href": "overview.html#stage-3-scale-up-of-the-diabetes-register",
-    "title": "LatinDiab project stages",
-    "section": "Stage 3: Scale up of the diabetes register",
-    "text": "Stage 3: Scale up of the diabetes register\nOnce we have tested the feasibility of the implementation and evaluated the algorithm for identification of people living with diabetes, we will scale up the implementation of the diabetes register.\n\n\n\nLatinDiab project stages"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About us",
-    "section": "",
-    "text": "The LatinDiab project is a collaboration between diabetologists, public health specialists, and epidemiologists from Argentina, Colombia, Mexico, Peru and Denmark.\n\n\n\n\nArgentina\n\n\n\n\n\n\n\n\nPaula V. Gómez\n\n\n\n\nPaula V. Gómez is physician with a Master’s degree in diabetes and specializations in nutrition and family medicine. She currently works in the research department of the Ministry of Health of La Pampa and coordinates the Integrated Diabetes Practice Unit (UPID) at the Evita Hospital in the province of La Pampa, Argentina.\n\n\n\n\n\n\nColombia\n\n\n\n\n\n\n\n\nPaula Díaz\n\n\n\n\nPaula Díaz is an Associate Professor at the National School of Public Health at the University of Antioquia, Colombia, and the current president of the Americas Network for Chronic Disease Surveillance.\n\n\n\n\n\n\nMéxico\n\n\n\n\n\n\n\n\nKarla Moreno\n\n\n\n\n\n\nPerú\n\n\n\n\n\n\n\n\nMaría Lazo\n\n\n\n\n\n\nDenmark\n\n\n\n\n\n\n\n\nOmar Silverman\n\n\n\n\nOmar Silverman is researcher and Assistant Professor at Aarhus University and the Steno Diabetes Center Aarhus, Denmark.\n\n\n\n\nDaniel Witte is Professor of Diabetes Epidemiology at Aarhus University and at the Steno Diabetes Center Aarhus, Denmark.\n\n\n\n\n\nDaniel Witte"
+    "text": "LatinDiab is a collaborative project that aims to setup modern, scalable, and efficient diabetes registers in Latin America by implementing a well documented set of open-source tools that ensure high quality, reproducible, and transparent research, leading to increase the scientific impact of these resources, improve diabetes care planning and policy making.\n\n\nUltimately, the LatinDiab project will provide a proof of concept regarding how continuously updated and automated health data could be linked in order to establish a disease register. Thus, the scope of the open-source software tools could be transferable to other chronic cardio-metabolic diseases."
   }
 ]
